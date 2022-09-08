@@ -1,3 +1,6 @@
-{"ip":"
- Address
-DreamITFOTME.aternos.me:49975","name":"DreamITFORME","port":"49975"}
+{
+	"ip":"DreamITFORME.aternos.me:49975",
+	"port": "49975",
+	"name": "SASTAdon",
+	"auto-night-skip":"true"
+}
